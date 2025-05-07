@@ -16,6 +16,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+<<<<<<< HEAD
     background-color: #F5F5F5;
 }
 
@@ -23,6 +24,8 @@
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+=======
+>>>>>>> fee3cbda72c3b66e5f6d45c4ac5c2a1299b837cf
 }
 
 .header div {
@@ -50,12 +53,17 @@
 .main {
     display: flex;
     width: 100dvw;
+<<<<<<< HEAD
+=======
+    height: 100dvh;
+>>>>>>> fee3cbda72c3b66e5f6d45c4ac5c2a1299b837cf
 }
 
 .image-perfil {
     width: 136px;
     height: 136px;
     border-radius: 100%;
+<<<<<<< HEAD
 }
 
 .information {
@@ -107,4 +115,6 @@
     align-items: center;
     padding-top: 12px;
     gap: 8px
+=======
+>>>>>>> fee3cbda72c3b66e5f6d45c4ac5c2a1299b837cf
 }
